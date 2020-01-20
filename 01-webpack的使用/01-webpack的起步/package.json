@@ -1,0 +1,15 @@
+{
+  "name": "meet-webpack",
+  "version": "1.0.0",
+  "description": "接触webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.6.0"
+  }
+}
